@@ -6,7 +6,7 @@ This Power BI project explores historical sales data from a retail superstore to
 This report analyzes historical sales, profit, discounts, and customer segments from the Superstore dataset. The goal is to uncover performance trends, identify high-performing categories and regions, detect discounting inefficiencies, and highlight customer and product segments that drive or drain profitability.
 
 ## Dataset Overview
-DataSet used - 
+DataSet used - <a href="https://github.com/LakshmiPriyanka13/Data-Visualization-and-Story-Telling/blob/main/Superstore.csv">Superstore.csv</a>
 The dataset used includes detailed transaction data from a fictional Superstore.
 It contains the following key columns:
 - Order Date, Ship Date, Ship Mode
